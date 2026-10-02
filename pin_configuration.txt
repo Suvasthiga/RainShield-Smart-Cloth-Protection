@@ -1,0 +1,12 @@
+RAINSHIELD - PIN CONFIGURATION
+
+ESP32 Dev Module
+
+Rain Sensor                 -> GPIO 34
+Water Level Sensor          -> GPIO 35
+Servo 1 - Cloth Protection  -> GPIO 18
+Servo 2 - Water Flow        -> GPIO 19
+
+Rain Sensor: Digital Input
+Water Level Sensor: Analog Input
+Servo Motors: Output

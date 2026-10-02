@@ -1,0 +1,11 @@
+RAINSHIELD - WORKING PRINCIPLE
+
+1. The rain sensor continuously detects rainfall.
+2. The ESP32 reads and processes the rain sensor input.
+3. When rain is detected, Servo 1 moves the cloth/roof mechanism to the protected position.
+4. The water-level sensor monitors the amount of water collected in the storage tank.
+5. Servo 2 controls the water-flow mechanism.
+6. When the tank is not full, collected rainwater is allowed to flow into the storage tank.
+7. When the tank reaches the configured full level, water flow is stopped.
+8. When rain stops, the cloth protection mechanism returns to its normal position.
+9. The ESP32 continuously monitors the sensors and controls the actuators automatically.

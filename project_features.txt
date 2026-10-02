@@ -1,0 +1,12 @@
+RAINSHIELD - MAIN FEATURES
+
+- Automatic rain detection
+- Automatic cloth protection
+- Water-level monitoring
+- Rainwater harvesting
+- Automatic water-flow control
+- ESP32-based control
+- Servo motor automation
+- Real-time Serial Monitor status
+- Reduced manual effort
+- Water conservation

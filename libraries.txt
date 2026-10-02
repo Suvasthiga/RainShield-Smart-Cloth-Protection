@@ -1,0 +1,10 @@
+RAINSHIELD - SOFTWARE REQUIREMENTS
+
+Required Library:
+ESP32Servo
+
+Development Board:
+ESP32 Dev Module
+
+Programming Language:
+Embedded C/C++ using Arduino IDE

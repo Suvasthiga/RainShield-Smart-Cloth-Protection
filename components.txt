@@ -1,0 +1,12 @@
+RAINSHIELD - COMPONENTS USED
+
+1. ESP32 Dev Module
+2. Rain Sensor
+3. Water Level Sensor
+4. Servo Motor - Cloth Protection
+5. Servo Motor - Water Flow Control
+6. Jumper Wires
+7. Breadboard
+8. Rainwater Collection Tank
+9. Cloth/Roof Protection Mechanism
+10. Power Supply
